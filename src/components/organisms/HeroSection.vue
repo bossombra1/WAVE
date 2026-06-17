@@ -28,7 +28,7 @@ import roundPatternIndigo from '@/assets/images/round_pattern_indigo.png'
     <div class="hero__inner container">
       <div class="hero__content">
         <BaseHeading :level="1" class="hero__title">
-          Votre allié<br />mobile money
+          Votre allié<br /> busindjzhhh
         </BaseHeading>
         <BaseText class="hero__subtitle">
           Déposez et retirez gratuitement.<br />Payez vos factures sans frais.<br />Transferez de l’argent pour 1%.
